@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  *
- * @author minio
+ * @author Patidifusa
  */
 public class Programa06 {
 

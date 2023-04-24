@@ -11,7 +11,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author minio
+ * @author Patidifusa
  */
 public class DAOVenta implements IDAOGeneral<Venta, Long> {
 
